@@ -1,0 +1,4 @@
+*.swp
+*~
+php/nbproject/private
+php/test/log
